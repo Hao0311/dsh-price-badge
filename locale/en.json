@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "API Price Period",
+    "description": "A small dot in the composer's tool row that shows whether the DeepSeek API is in peak (full price) or off-peak (half price) hours, with a countdown in the tooltip."
+  }
+}
